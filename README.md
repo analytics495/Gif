@@ -1,4 +1,4 @@
 #Adding GIF
 
-KFC gif
-![](https://github.com/analytics495/Gif/blob/main/example%20(1).gif)
+
+![kfc](https://github.com/analytics495/Gif/assets/158283854/09ea8ac0-920b-4ee4-aaea-e56ea7aad49c)
